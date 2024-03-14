@@ -1,0 +1,10 @@
+PackingJar/.settings
+PackingJar/.settings/*
+PackingJar/dist
+PackingJar/bin
+PackingJar/target
+PackingJar/dist/*
+PackingJar/bin/*
+PackingJar/target/*
+PackingJar/.classpath
+PackingJar/.project
